@@ -1,0 +1,9 @@
+{
+    "app_name" : "Rest API",
+    "app_port" : 8000,
+
+    "db_host" : "localhost",
+    "db_user": "root",
+    "db_password": "",
+    "db_name": "nodedb"
+}
